@@ -1,0 +1,168 @@
+[submodule "LFSR"]
+	path = LFSR
+	url = https://github.com/alto777/LFSR.git
+[submodule "Ahornberg-Microtonal"]
+	path = Ahornberg-Microtonal
+	url = https://github.com/Ahornberg/Ahornberg-Microtonal.git
+[submodule "FXKit"]
+	path = FXKit
+	url = https://github.com/JerrySievert/FXKit.git
+[submodule "Nohmad"]
+	path = Nohmad
+	url = https://github.com/joelrobichaud/Nohmad.git
+[submodule "vcvrack-sid"]
+	path = vcvrack-sid
+	url = https://github.com/bongozone/vcvrack-sid.git
+[submodule "VCV-Rack-Csound-Modules"]
+	path = VCV-Rack-Csound-Modules
+	url = https://github.com/Djack13/VCV-Rack-Csound-Modules.git
+[submodule "vcvrack-colorscope"]
+	path = vcvrack-colorscope
+	url = https://github.com/bongozone/vcvrack-colorscope.git
+[submodule "Via-for-VCVRack"]
+	path = Via-for-VCVRack
+	url = https://github.com/liquidcitymotors/Via-for-VCVRack.git
+[submodule "BaconPlugs"]
+	path = BaconPlugs
+	url = https://github.com/baconpaul/BaconPlugs.git
+[submodule "AS"]
+	path = AS
+	url = https://github.com/AScustomWorks/AS.git
+[submodule "RackPlugins"]
+	path = RackPlugins
+	url = https://github.com/NikolajAndersson/RackPlugins.git
+[submodule "mtsch-vcvrack-plugins"]
+	path = mtsch-vcvrack-plugins
+	url = https://github.com/mtsch/mtsch-vcvrack-plugins.git
+[submodule "CharredDesert"]
+	path = CharredDesert
+	url = https://github.com/JerrySievert/CharredDesert.git
+[submodule "Bark"]
+	path = Bark
+	url = https://github.com/Coirt/Bark.git
+[submodule "stochasm"]
+	path = stochasm
+	url = https://github.com/teletypist/stochasm.git
+[submodule "Erratic"]
+	path = Erratic
+	url = https://github.com/bafonso/Erratic.git
+[submodule "DrumKit"]
+	path = DrumKit
+	url = https://github.com/JerrySievert/DrumKit.git
+[submodule "southpole-vcvrack"]
+	path = southpole-vcvrack
+	url = https://github.com/gbrandt1/southpole-vcvrack.git
+[submodule "AepelzensParasites"]
+	path = AepelzensParasites
+	url = https://github.com/Aepelzen/AepelzensParasites.git
+[submodule "vcv-link"]
+	path = vcv-link
+	url = https://github.com/stellare-modular/vcv-link
+[submodule "ValleyRackFree"]
+	path = ValleyRackFree
+	url = https://github.com/ValleyAudio/ValleyRackFree.git
+[submodule "Strums_Mental_VCV_Modules"]
+	path = Strums_Mental_VCV_Modules
+	url = https://github.com/Strum/Strums_Mental_VCV_Modules.git
+[submodule "vcvmods"]
+	path = vcvmods
+	url = https://github.com/s-ol/vcvmods.git
+[submodule "VCVRack-Simple"]
+	path = VCVRack-Simple
+	url = https://github.com/IohannRabeson/VCVRack-Simple.git
+[submodule "RODENTMODULES"]
+	path = RODENTMODULES
+	url = https://github.com/RODENTCAT/RODENTMODULES.git
+[submodule "RJModules"]
+	path = RJModules
+	url = https://github.com/Miserlou/RJModules.git
+[submodule "qwelk"]
+	path = qwelk
+	url = https://github.com/raincheque/qwelk.git
+[submodule "PvC"]
+	path = PvC
+	url = https://github.com/phdsg/PvC.git
+[submodule "NLNRI_VCVRackPlugins"]
+	path = NLNRI_VCVRackPlugins
+	url = https://github.com/NonLinearInstruments/NLNRI_VCVRackPlugins.git
+[submodule "NauModular"]
+	path = NauModular
+	url = https://github.com/naus3a/NauModular.git
+[submodule "vcv-MrLumps"]
+	path = vcv-MrLumps
+	url = https://github.com/dotinspace/vcv-MrLumps.git
+[submodule "VCV-Rack-Plugins"]
+	path = VCV-Rack-Plugins
+	url = https://github.com/mschack/VCV-Rack-Plugins.git
+[submodule "LOGinstruments"]
+	path = LOGinstruments
+	url = https://github.com/leopard86/LOGinstruments.git
+[submodule "LRTRack"]
+	path = LRTRack
+	url = https://github.com/lindenbergresearch/LRTRack.git
+[submodule "vcv-karatesnoopy"]
+	path = vcv-karatesnoopy
+	url = https://github.com/KarateSnoopy/vcv-karatesnoopy.git
+[submodule "JW-Modules"]
+	path = JW-Modules
+	url = https://github.com/jeremywen/JW-Modules.git
+[submodule "VCVRack-plugin-JE"]
+	path = VCVRack-plugin-JE
+	url = https://github.com/eres-j/VCVRack-plugin-JE.git
+[submodule "hetrickcv"]
+	path = hetrickcv
+	url = https://github.com/mhetrick/hetrickcv.git
+[submodule "vcv-gratrix"]
+	path = vcv-gratrix
+	url = https://github.com/gratrix/vcv-gratrix.git
+[submodule "dBiz"]
+	path = dBiz
+	url = https://github.com/dBiz/dBiz.git
+[submodule "cf"]
+	path = cf
+	url = https://github.com/cfoulc/cf.git
+[submodule "BogaudioModules"]
+	path = BogaudioModules
+	url = https://github.com/bogaudio/BogaudioModules.git
+[submodule "Bidoo"]
+	path = Bidoo
+	url = https://github.com/sebastien-bouffier/Bidoo.git
+[submodule "vcvrackplugins_av500"]
+	path = vcvrackplugins_av500
+	url = https://github.com/av500/vcvrackplugins_av500.git
+[submodule "Autodafe"]
+	path = Autodafe
+	url = https://github.com/antoniograzioli/Autodafe.git
+[submodule "Autodafe-Drums"]
+	path = Autodafe-Drums
+	url = https://github.com/antoniograzioli/Autodafe-Drums.git
+[submodule "ArableInstruments"]
+	path = ArableInstruments
+	url = https://github.com/adbrant/ArableInstruments.git
+[submodule "AmalgamatedHarmonics"]
+	path = AmalgamatedHarmonics
+	url = https://github.com/jhoar/AmalgamatedHarmonics.git
+[submodule "AepelzensModules"]
+	path = AepelzensModules
+	url = https://github.com/Aepelzen/AepelzensModules.git
+[submodule "vcv_luckyxxl"]
+	path = vcv_luckyxxl
+	url = https://github.com/luckyxxl/vcv_luckyxxl.git
+[submodule "ML_modules"]
+	path = ML_modules
+	url = https://github.com/martin-lueders/ML_modules.git
+[submodule "vcvrackplugins_dekstop"]
+	path = vcvrackplugins_dekstop
+	url = https://github.com/dekstop/vcvrackplugins_dekstop.git
+[submodule "Fundamental"]
+	path = Fundamental
+	url = https://github.com/VCVRack/Fundamental.git
+[submodule "Befaco"]
+	path = Befaco
+	url = https://github.com/VCVRack/Befaco.git
+[submodule "AudibleInstruments"]
+	path = AudibleInstruments
+	url = https://github.com/VCVRack/AudibleInstruments.git
+[submodule "ESeries"]
+	path = ESeries
+	url = https://github.com/VCVRack/ESeries.git
