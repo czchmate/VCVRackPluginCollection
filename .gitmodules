@@ -166,3 +166,9 @@
 [submodule "ESeries"]
 	path = ESeries
 	url = https://github.com/VCVRack/ESeries.git
+[submodule "trowaSoft-VCV"]
+	path = trowaSoft-VCV
+	url = https://github.com/j4s0n-c/trowaSoft-VCV.git
+[submodule "monome-rack"]
+	path = monome-rack
+	url = https://github.com/Dewb/monome-rack.git
